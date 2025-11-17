@@ -33,5 +33,5 @@ I believe the discipline and structure found in these arts are not so different 
 
 I'm always open to discussing technology, innovative projects, or even sharing music recommendations!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL-Here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gordius-bogorosh-aa71a2392)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bogrsh)
